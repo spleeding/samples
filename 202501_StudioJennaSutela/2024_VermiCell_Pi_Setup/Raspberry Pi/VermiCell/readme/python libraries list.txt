@@ -1,0 +1,2 @@
+I think all that's necessary to install is the OLA for Linux as well as OLA-python, which comes with the install package.
+Potentially it might be necessary to install spidev, if it isn't already part of the Python3 running on the system.

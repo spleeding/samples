@@ -1,0 +1,8 @@
+FRIEZE - DELTA
+
+running the program for 20-30 mins
+no issues
+
+states are evaluated every 30seconds for potential change according to the weighted state change function
+
+state outcomes as follows:

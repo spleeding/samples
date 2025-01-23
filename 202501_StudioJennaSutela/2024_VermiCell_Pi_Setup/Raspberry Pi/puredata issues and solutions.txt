@@ -1,0 +1,25 @@
+PURE DATA
+
+Issues and Solutions:
+
+
+Audio issue >
+
+	ALSA input/output error 
+
+	Maybe this is a audio-user permission issue on the Pi itself:
+	
+	Try:
+		1: https://jackaudio.org/faq/linux_rt_config.html
+
+
+
+
+LIGHT DMX
+
+
+Seems like a person managed to controll everything with the OpenUSB Enttec:
+
+https://forum.pdpatchrepo.info/topic/11463/communication-between-puredata-and-ola-open-lighting-architecture-for-dmx-control/6
+
+
